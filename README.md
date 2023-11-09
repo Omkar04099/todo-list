@@ -6,4 +6,4 @@ step3: run npm start.
 
 
 ## demo can be seen at
-url: 
+url: https://654cc28457495a24ffd6dce2--rococo-smakager-a56a98.netlify.app/
